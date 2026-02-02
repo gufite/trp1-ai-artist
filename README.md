@@ -404,3 +404,4 @@ See [Extending Guide](docs/guides/EXTENDING.md) for details.
 ## 📄 License
 
 MIT License - see [LICENSE](LICENSE) for details.
+# trp1-ai-artist
