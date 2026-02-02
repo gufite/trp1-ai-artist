@@ -1,8 +1,8 @@
 # TRP 1 - AI Content Generation Challenge Submission
 
-**Submitted by:** [Your Name]  
-**Date:** February 2, 2026  
-**Time Spent:** ~2.5 hours
+**Submitted by:** Gutema Fite  
+**Email:** gutfite@gmail.com  
+**Date:** February 2, 2026
 
 ---
 
@@ -508,26 +508,7 @@ ffmpeg -f lavfi -i color=c=#1a1a2e:s=1920x1080:d=30:r=25 \
 
 ---
 
-## Part 6: Time Breakdown
-
-| Phase | Planned | Actual | Notes |
-|-------|---------|--------|-------|
-| **Environment Setup** | 20 min | 15 min | Already configured, just verification |
-| **Codebase Exploration** | 35 min | 45 min | Thorough documentation created |
-| **Content Generation** | 60 min | 40 min | Music succeeded quickly, video failed fast |
-| **Troubleshooting** | - | 25 min | Veo API + audio format issues |
-| **Documentation** | 40 min | 45 min | Comprehensive SUBMISSION.md |
-| **Total** | 155 min | 170 min | **2h 50min** |
-
-**Time Management:**
-- Setup phase went faster due to pre-configured environment
-- Spent extra time on thorough exploration documentation (worth it for points)
-- Troubleshooting took unexpected time but yielded valuable insights
-- Documentation phase crucial for demonstrating understanding
-
----
-
-## Part 7: Submission Artifacts
+## Part 6: Submission Artifacts
 
 ### Files Created
 
@@ -571,7 +552,7 @@ ffmpeg -f lavfi -i color=c=#1a1a2e:s=1920x1080:d=30:r=25 \
 - Result: ✅ **Valid MP4 format, YouTube-compatible**
 
 **Upload Details:**
-- Title: `[TRP1] [Your Name] - AI Content Generation Challenge Submission`
+- Title: `[TRP1] Gutema Fite - AI Content Generation Challenge Submission`
 - Description: Challenge summary, troubleshooting documentation, GitHub link
 - Visibility: Unlisted
 - **URL:** https://youtube.com/watch?v=4N4e6GsuWuQ
@@ -628,10 +609,9 @@ This challenge successfully demonstrated:
 
 **Note on Content Generation Score:** Video and image generation require GCP billing which was not available. This is an access/billing limitation documented with exact error messages, not a lack of effort or understanding.
 
-**Time to Submission:** 2 hours 50 minutes (within 3-hour limit)
 
 ---
 
-*Submitted by: [Your Name]*  
-*Date: February 2, 2026*  
-*Contact: [Your Email]*
+*Submitted by: Gutema Fite*  
+*Email: gutfite@gmail.com*  
+*Date: February 2, 2026*
