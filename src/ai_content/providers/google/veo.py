@@ -104,7 +104,7 @@ class GoogleVeoProvider:
 
         try:
             # Build config
-            config = types.GenerateVideoConfig(
+            config = types.GenerateVideosConfig(
                 aspect_ratio=aspect_ratio,
                 person_generation=person_generation,
             )
